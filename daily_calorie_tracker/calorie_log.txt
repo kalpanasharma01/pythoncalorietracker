@@ -1,0 +1,14 @@
+Daily Calorie Tracker Report
+Nmae: Kalpana Sharma
+Date: September 25, 2025
+Timestamp: 2025-11-09 22:47:00
+
+Meal Name           Calories
+----------------------------------------
+SNACK               123.0
+LUNCH               67.0
+BREAKFAST           43.0
+----------------------------------------
+Total:              233.0
+Average:            77.67
+You exceeded your daily calorie limit by 110.00 calories.
